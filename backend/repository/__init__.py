@@ -1,0 +1,1 @@
+from . import usuario_repository, categoria_repository, boleto_repository, gasto_repository, assinatura_repository
